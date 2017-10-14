@@ -3,6 +3,8 @@
 body {
 	font-family: 'Montserrat', sans-serif;
 	background-color: #F1F1F5;
+	max-width: 750px;
+	height: 100vh;
 }
 
 .hero {
