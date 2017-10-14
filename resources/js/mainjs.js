@@ -1,0 +1,1 @@
+// create a slide out animation when the button is clicked

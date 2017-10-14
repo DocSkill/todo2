@@ -1,0 +1,76 @@
+@charset = "UTF-8";
+
+body {
+	font-family: 'Montserrat', sans-serif;
+	background-color: #F1F1F5;
+}
+
+.hero {
+	font-size: 57px;
+	font-weight: 300;
+	text-align: center;
+	padding: 412px 0 54px 0;
+
+}
+
+.fill {
+	fill: #999999;
+}
+
+.logo {
+	text-align: center;
+}
+
+.logo svg {
+	width: 86px;
+	height: 88px;
+}
+
+.kicker {
+	font-size: 25px;
+	font-weight: 200;
+	text-align: center;
+	padding: 90px 0 0 0;
+}
+
+
+div#signUp a {
+	text-decoration: none;
+	color: white;
+	border: none;
+	border-radius: 60px;
+	font-size: 36px;
+	font-weight: 200;
+	color: #fff;
+	padding: 40px 113px;
+	background-color: #41EDD2;
+	box-shadow: 0 15px 15px rgba(0,0,0,0.15);
+	cursor: pointer;
+}
+
+.button {
+	margin: 165px 0 366px 0;
+	text-align: center;
+}
+
+.heading {
+	font-size: 24px;
+	font-weight: 300;
+	text-align: center;
+	padding: 365px 0 0 0;
+}
+
+.form {
+	text-align: center;
+	margin: 90px 0 0 0; 
+}
+.form input[type="text"],
+input[type="email"],
+input[type="password"] {
+	font-size: 21px;
+	padding: 38px 200px 38px 42px;
+	margin-bottom: 56px;
+	border: solid 1px black;
+	border-radius: 30px;
+}
+
